@@ -131,8 +131,11 @@ and consistent with the digestive-system burden reported in Nasar et al.
 ## Supplementary Links
 
 - **Video walkthrough** — <https://youtu.be/5xrSCpEAqNA>
-- **Tableau Public** — (link in report)
-- **Supplementary charts** — Age-group % over 26 years; FCE over 26 years
+- **Tableau Public dashboard** —
+  <https://public.tableau.com/views/COMP4037_CW2_NHS_HES_Treemap_ANAN/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+- **Supplementary visualisation** —
+  <https://github.com/xylomylo/COMP4037-Coursework-2/blob/main/output/vis.png>
+  (age-group % and FCE trends over 26 years)
 
 ---
 
