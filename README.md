@@ -218,8 +218,6 @@ burden reported in Nasar et al. (2023).
 
 ## Acknowledgements
 
-- The structure of the Data Wrangling pipeline in Jupyter Notebooks is adapted
-  from and inspired by the lab coursework material for **COMP4030: Data Science
-  with Machine Learning**, with heavy customisation for the NHS dataset.
+- The structure of the Data Wrangling pipeline in Jupyter Notebooks is adapted from and inspired by the lab coursework material for **COMP4030: Data Science with Machine Learning**, with heavy customisation for the NHS dataset.
 - Claude AI was used to perform initial research on resources required to prepare the data wrangling pipeline. It was also used to write the final `README.md` file for GitHub by compiling personal Obsidian Notes.
 
